@@ -1,0 +1,3 @@
+modulePipeline {
+    isLibrary = true
+}
